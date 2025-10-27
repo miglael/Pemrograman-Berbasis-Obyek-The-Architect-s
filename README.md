@@ -1,5 +1,6 @@
 # Pemrograman-Berbasis-Obyek-The-Architect-s
-Tim: 
+
+# Tim: 
 Michael Aristo Bima Putra (3124600018)
 Ahmad Nab'Al Falah (3124600024)
 
